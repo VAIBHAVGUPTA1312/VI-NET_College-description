@@ -1,0 +1,122 @@
+/********************TAG STYLE********************/
+
+body {
+  display: block;
+  margin: 0;
+  background-color: #0093ab;
+}
+
+hr {
+  display: block;
+  margin: 50px auto;
+  border-style: dotted;
+  border-bottom: none;
+  width: 70%;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: "Tenor Sans", sans-serif;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  padding: 15px 0;
+}
+
+h3 {
+  margin: auto;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 3.5rem;
+  margin-bottom: 125px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+}
+
+/********************CLASS STYLE********************/
+
+.div-1 {
+  text-align: center;
+  padding: 7% 3%;
+}
+
+.logo {
+  border-radius: 30%;
+}
+
+.top_div {
+  width: 70%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.sir_img {
+  width: 20%;
+  float: left;
+  margin: 75px 50px 50px 0;
+}
+
+.courses {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.middle_div {
+  margin-bottom: 3rem;
+}
+
+.bottom_div {
+  margin: 0;
+  height: 500px;
+}
+
+.feature_icon {
+  color: #373737;
+  margin-bottom: 1rem;
+}
+
+.feature_icon:hover {
+  color: #232023;
+}
+
+.feature_box {
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.cards {
+  padding: 7% 15%;
+  background-color: #00afc1;
+}
+
+.card_title {
+  text-align: center;
+  font-size: 2rem;
+}
+
+/********************ID STYLE********************/
+
+#features {
+  padding: 5% 15%;
+}
+
+#VIT {
+  text-align: center;
+  margin-top: 150px;
+}
